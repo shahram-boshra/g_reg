@@ -1,0 +1,108 @@
+MoleculeName,MolecularWeight,BoilingPoint
+Propionic acid,74.08,141.0
+Butyric acid,88.11,164.0
+Valeric acid,102.13,185.0
+Hexanoic acid,116.16,205.0
+Octanoic acid,144.21,239.0
+Lauric acid,200.32,280.0
+Succinic acid,118.09,235.0
+Adipic acid,146.14,265.0
+Glutaric acid,132.12,200.0
+Toluene,92.14,110.6
+Ethylbenzene,106.17,136.2
+Cumene,120.2,152.4
+Styrene,104.15,145.2
+Chlorobenzene,112.56,132.0
+Bromobenzene,157.01,156.0
+Nitrobenzene,123.11,210.8
+Aniline,93.13,184.0
+Phenol,94.11,181.7
+Benzoic Acid,122.12,249.0
+Benzaldehyde,106.12,178.0
+Acetophenone,120.15,202.0
+Naphthalene,128.17,218.0
+Anthracene,178.23,340.0
+Phenanthrene,178.23,340.0
+Biphenyl,154.21,255.0
+o-Xylene,106.17,144.0
+m-Xylene,106.17,139.0
+p-Xylene,106.17,138.0
+o-Toluidine,107.16,200.0
+m-Toluidine,107.16,203.0
+p-Toluidine,107.16,200.0
+o-Chlorotoluene,126.59,197.0
+p-Chlorotoluene,126.59,162.0
+2-Phenylpropane,120.2,96.0
+1-Phenylpropane,120.2,152.4
+tert-Butylbenzene,134.22,152.4
+12-Dichlorobenzene,147.0,180.0
+13-Dichlorobenzene,147.0,172.0
+14-Dichlorobenzene,147.0,174.0
+2-Nitrotoluene,137.14,222.0
+3-Nitrotoluene,137.14,218.0
+4-Nitrotoluene,137.14,238.0
+2-Aminotoluene,107.16,200.0
+3-Aminotoluene,107.15,203.0
+4-Aminotoluene,107.15,200.0
+o-Cresol,108.14,191.0
+m-Cresol,108.14,202.0
+p-Cresol,108.14,202.0
+2-Chlorophenol,128.57,175.0
+4-Chlorophenol,128.57,219.0
+2-Nitrophenol,139.11,216.0
+o-Anisidine,123.16,225.0
+p-Anisidine,123.16,229.0
+2-Phenylacetic acid,136.15,265.0
+3-Phenylpropionic acid,150.18,280.0
+4-Phenylbutyric acid,164.21,290.0
+2-Methoxybenzaldehyde,136.15,196.0
+4-Methoxybenzaldehyde,136.15,250.0
+2-Nitrobenzaldehyde,151.12,197.0
+4-Nitrobenzaldehyde,151.12,248.0
+2-Aminoacetophenone,135.17,247.0
+4-Aminoacetophenone,135.17,258.0
+1-Naphthylamine,143.19,300.0
+2-Naphthylamine,143.19,294.0
+1-Naphthol,144.18,278.0
+2-Naphthol,144.18,295.0
+4-Biphenylamine,169.23,302.0
+2-Chlorobiphenyl,202.66,275.0
+4-Chlorobiphenyl,202.66,315.0
+24-Dichlorobiphenyl,237.1,330.0
+Catechol,110.11,240.0
+Resorcinol,110.11,277.0
+Hydroquinone,110.11,287.0
+2-Ethylphenol,122.17,200.0
+4-Ethylphenol,122.17,219.0
+2-Isopropylphenol,136.2,214.0
+4-Isopropylphenol,136.2,218.0
+2-tert-Butylphenol,150.22,224.0
+4-tert-Butylphenol,150.22,237.0
+24-Dichlorophenol,197.03,210.0
+246-Trichlorophenol,231.48,246.0
+Pentachlorophenol,266.32,310.0
+2-Methylaniline,107.15,197.0
+3-Methylaniline,107.15,203.0
+4-Methylaniline,107.15,200.0
+2-EthylAniline,121.18,214.0
+4-EthylAniline,121.18,229.0
+N-Methylaniline,107.15,196.0
+NN-Dimethylaniline,121.18,194.0
+2-Nitroaniline,138.15,260.0
+4-Nitroaniline,138.15,332.0
+2-Chloroaniline,127.57,209.0
+4-Chloroaniline,127.57,230.0
+2-Bromoaniline,172.02,229.0
+4-Bromoaniline,172.02,251.0
+2-Iodoaniline,219.01,255.0
+4-Iodoaniline,219.01,281.0
+o-Phenylenediamine,108.14,267.0
+m-Phenylenediamine,108.14,287.0
+p-Phenylenediamine,108.14,282.0
+2-Aminophenol,109.13,173.0
+Vanillin,152.15,285.0
+Piperonal,150.13,263.0
+Cinnamaldehyde,132.16,252.0
+2-methylacetophenone,134.18,214.0
+3-ethylacetophenone,148.21,228.0
+4-methylacetophenone,134.18,226.0
